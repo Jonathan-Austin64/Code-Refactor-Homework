@@ -1,8 +1,9 @@
 # Code Refactoring
 ## Description
-for this homework asignment i had to refactor html code, push my code to github, and publish the revised site to github pages.
+For this homework assignment i had to refactor html code, push my code to github, and publish the revised site to github pages.
 
 this was the final product doplayed to GitHub Pages.
+https://jonathan-austin64.github.io/Code-Refactor-Homework/
 
 
 ## Instructions
